@@ -42,4 +42,4 @@
 Через какое-то время, обычно пару минут, живую страницу можно будет посмотреть
 по адресу указанному в отредактированном свойстве `homepage`. Например, вот
 ссылка на живую версию для этого репозитория
-[https://goitacademy.github.io/parcel-project-template](https://goitacademy.github.io/parcel-project-template).
+[https://goitacademy.github.io/parcel-project-template](https://sirotovalexander.github.io/).
